@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie Finder</string>
+    <string name="find_movie">Find Movies!</string>
+    <string name="movies">Movies:</string>
+    <string name="description">Details:</string>
+    <string-array name="movie_genre">
+        <item>Action</item>
+        <item>Comedy</item>
+        <item>Biopic</item>
+
+    </string-array>
+</resources>
